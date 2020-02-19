@@ -50,4 +50,4 @@ i < 5 // If this returns true, loop continues from the block of code
 
 ## Additional Resources
 - Here is a [detailed and easy to understand](https://javascript.info/variables) article explaining JavaScript variables and how the data types work.
-- [Different Type of Loops in JavaScript](https://www.edureka.co/blog/javascript-loops/) - In case you're interested to know about them
+- [Different Types of Loops in JavaScript](https://www.edureka.co/blog/javascript-loops/) - In case you're interested to know about them
