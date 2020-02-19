@@ -46,3 +46,8 @@ i < 5 // If this returns true, loop continues from the block of code
 -	Familiarize yourself with [different data types in JavaScript](https://www.geeksforgeeks.org/variables-datatypes-javascript/). 
 -	Next step is to understand [how data is converted from one type to another](https://www.w3schools.com/js/js_type_conversion.asp)
 - Once understanding variables and it's data types is clear, go through [this article](https://www.w3schools.com/js/js_loop_for.asp) to understand how loops work in JavaScript.
+
+
+## Additional Resources
+- Here is a [detailed and easy to understand](https://javascript.info/variables) article explaining JavaScript variables and how the data types work.
+- [Different Type of Loops in JavaScript](https://www.edureka.co/blog/javascript-loops/) - In case you're interested to know about them
