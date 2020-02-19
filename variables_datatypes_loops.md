@@ -35,10 +35,10 @@ for (i = 0; i < 5; i++) {
 The first statement "i=0" gets executed once which is the starting point of the loop. The second statement "i<5" is the condition for the loop to continue which evaluates everytime after the 3rd statement (Update) is executed. "i++" is the Update Statement which runs everytime after the block of code is executed.
 
 The sequence looks something like below -
-i = 0 (Runs only once)
-// Execute the block of code
-i++ // This updates i to 1
-i < 5 // If this returns true, loop continues from the block of code
+- i = 0 (Runs only once)
+- // Execute the block of code
+- i++ // This updates i to 1
+- i < 5 // If this returns true, loop continues from the block of code
 
 
 ## What must you do?
