@@ -21,6 +21,6 @@ The most important thing to understand in a for loop is the condition statement.
 - Next step is to learn how to write [different types of loops](https://www.w3schools.com/jsref/jsref_for.asp) starting with the most commonly used loop i.e. the for-loop. This page has links to the other loops like for-in/for-of, etc.
 
 ## Additional Resources
-- Check out the interesting concepts of [controlled and uncontrolled loops](https://javascript.info/variables)
+- Check out the interesting concepts of [controlled and uncontrolled loops](https://www.i-programmer.info/programming/theory/8003-the-essence-of-loops.html)
 - Play this [interesting for-loop game](https://www.youtube.com/watch?v=SmFladGd9zQ) with your friends to learn loops while having fun. For clear game rules - [Check this out](https://code.org/curriculum/course4/8/Teacher#Activity1)
 
